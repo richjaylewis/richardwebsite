@@ -1,0 +1,17 @@
+#smoothup { 
+height: 40px; 
+width: 40px; 
+position:fixed;
+bottom:50px;
+right:100px;
+text-indent:-9999px;
+display:none;
+background: url("http://www.example.com/wp-content/uploads/2013/07/top_icon.png"); 
+-webkit-transition-duration: 0.4s; 
+-moz-transition-duration: 0.4s; transition-duration: 0.4s; 
+}
+
+#smoothup:hover {
+-webkit-transform: rotate(360deg) }
+background: url('') no-repeat;
+}
